@@ -1,6 +1,6 @@
 # 📊 Desafio Técnico - Visualizador de Relatórios de Vendas
 
-Aplicação Full Stack desenvolvida, o sistema consiste em um dashboard para visualização de registros de vendas, permitindo filtragem avançada e exportação de relatórios em PDF.
+Aplicação Full Stack desenvolvida para treinamento e aprendizado, o sistema consiste em um dashboard para visualização de registros de vendas, permitindo filtragem avançada e exportação de relatórios em PDF.
 
 ## 📸 Screenshots
 
